@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Visual Studio cache
+*.userprefs
+
+# Test results
+TestResults/
+*.trx
+
+# IDE / temporary files
+*.tmp
+*.temp

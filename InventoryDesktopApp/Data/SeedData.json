@@ -1,0 +1,40 @@
+{
+  "admin": {
+    "username": "admin123",
+    "password": "zxcvbnm123!"
+  },
+  "items": [
+    {
+      "name": "Laptop-Asus",
+      "price": 3500,
+      "amount": 10
+    },
+    {
+      "name": "Mouse-Logitech",
+      "price": 150,
+      "amount": 25
+    },
+    {
+      "name": "Keyboard-Mechanical",
+      "price": 450,
+      "amount": 15
+    }
+  ],
+  "customers": [
+    {
+      "name": "John Doe",
+      "phoneNumber": "0712345678",
+      "email": "john@test.com"
+    },
+    {
+      "name": "Jonny Cage",
+      "phoneNumber": "0712555678",
+      "email": "jonnyCage@gmail.com"
+    },
+    {
+      "name": "Zen Bio",
+      "phoneNumber": "0753135678",
+      "email": "zen@yahoo.com"
+    }
+  ]
+}
