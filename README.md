@@ -6,10 +6,9 @@
 ![Appium](https://img.shields.io/badge/Appium-desktop%20automation-red?logo=appium)
 ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-Windows%20UI-blue)
 
-# Inventory Desktop App
 
 <p align="center">
-  <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App">
+  <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App" width="850">
 </p>
 
 ## Purpose / Scope
