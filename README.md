@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App" width="850">
+  <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App" width="850" height="464">
 </p>
 
 ## Purpose / Scope
