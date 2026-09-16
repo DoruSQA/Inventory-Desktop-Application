@@ -27,7 +27,37 @@ Supports both manual testing and desktop UI automation using
 - Input validation
 - SQLite database
 
-## Download
+## Download & Use
 
-A ready-to-run Windows version is available in
-[GitHub Releases](../../releases/latest).
+### Option 1 — Compiled Application
+
+Download the latest Windows release from [GitHub Releases](../../releases/latest).
+
+1. Download the latest `.7z` archive.
+2. Extract the archive to a local folder.
+3. Run `InventoryDesktopApp.exe`.
+4. Log in using the test credentials below.
+
+#### Test Credentials
+
+| Role | Username | Password |
+|------|----------|----------|
+| Admin | `admin123` | `zxcvbnm123!` |
+
+
+### Option 2 — Run from Source
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DoruSQA/InventoryDesktopApp.git
+```
+Open InventoryDesktopApp.sln in Visual Studio then build and run the InventoryDesktopApp project.
+
+
+## Future Improvements
+
+- Password reset functionality
+- User management and role-based access control
+- Advanced product and customer search
+- Inventory product filtering & sorting
