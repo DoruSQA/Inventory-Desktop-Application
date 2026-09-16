@@ -6,6 +6,12 @@
 ![Appium](https://img.shields.io/badge/Appium-desktop%20automation-red?logo=appium)
 ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-Windows%20UI-blue)
 
+# Inventory Desktop App
+
+<p align="center">
+  <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App">
+</p>
+
 ## Purpose / Scope
 
 Windows desktop inventory management application created for
