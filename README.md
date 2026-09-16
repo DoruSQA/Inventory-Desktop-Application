@@ -10,7 +10,6 @@
 
 Windows desktop inventory management application created for
 manual and automated testing purposes.
-
 Supports both manual testing and desktop UI automation using
 **Appium and WinAppDriver**.
 
