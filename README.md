@@ -31,7 +31,7 @@ Supports both manual testing and desktop UI automation using
 
 ### Option 1 — Compiled Application
 
-Download the latest Windows release from [GitHub Releases](../../releases/latest).
+Download the latest Windows release from [here](../../releases/latest).
 
 1. Download the latest `.7z` archive.
 2. Extract the archive to a local folder.
