@@ -55,7 +55,7 @@ git clone https://github.com/DoruSQA/InventoryDesktopApp.git
 Open InventoryDesktopApp.sln in Visual Studio then build and run the InventoryDesktopApp project.
 
 
-## Future Improvements
+## 🎯 Future Improvements
 
 - Password reset functionality
 - User management and role-based access control
