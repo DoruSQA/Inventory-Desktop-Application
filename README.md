@@ -13,10 +13,13 @@
 
 ## Purpose / Scope
 
-Windows desktop inventory management application created for
+Windows desktop inventory management is an application created for
 manual and automated testing purposes.
 Supports both manual testing and desktop UI automation using
 **Appium and WinAppDriver**.
+
+> **Note:** The application is also used as the system under test for my desktop UI automation framework.
+
 
 ## Features
 
@@ -61,3 +64,6 @@ Open InventoryDesktopApp.sln in Visual Studio then build and run the InventoryDe
 - User management and role-based access control
 - Advanced product and customer search
 - Inventory product filtering & sorting
+
+
+**Author:** [DoruSQA](https://github.com/DoruSQA) | [LinkedIn](https://www.linkedin.com/in/sava-doru/)
