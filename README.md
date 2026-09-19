@@ -11,17 +11,16 @@
   <img src="docs/images/inventory-desktop-app.png" alt="Inventory Desktop App" width="850" height="464">
 </p>
 
-## Purpose / Scope
+## 📋 Purpose
 
-Windows desktop inventory management is an application created for
-manual and automated testing purposes.
-Supports both manual testing and desktop UI automation using
-**Appium and WinAppDriver**.
+I create this application specifically for manual and automated testing purposes.
+It is freely available for anyone who wants to practice manual testing or build and run 
+desktop UI automation tests using **Appium and WinAppDriver**.
 
 > **Note:** The application is also used as the system under test for my desktop UI automation framework.
 
 
-## Features
+## ✨ Features
 
 - User authentication
 - Product management
@@ -30,7 +29,7 @@ Supports both manual testing and desktop UI automation using
 - Input validation
 - SQLite database
 
-## Download & Use
+## 📥 Download & Use
 
 ### Option 1 — Compiled Application
 
@@ -41,7 +40,7 @@ Download the latest Windows release from [here](../../releases/latest).
 3. Run `InventoryDesktopApp.exe`.
 4. Log in using the test credentials below.
 
-#### Test Credentials
+#### 🔐 Test Credentials
 
 | Role | Username | Password |
 |------|----------|----------|
