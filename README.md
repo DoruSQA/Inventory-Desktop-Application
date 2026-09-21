@@ -25,7 +25,6 @@ desktop UI automation tests using **Appium and WinAppDriver**.
 - User authentication
 - Product management
 - Customer management
-- Inventory management
 - Input validation
 - SQLite database
 
