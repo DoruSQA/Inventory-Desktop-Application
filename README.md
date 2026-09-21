@@ -1,4 +1,4 @@
-# 📦 Inventory Desktop App
+# 🗃️ Inventory Desktop App
 
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple?logo=dotnet)
