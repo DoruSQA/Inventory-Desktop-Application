@@ -19,6 +19,15 @@ desktop UI automation tests using **Appium and WinAppDriver**.
 
 > **Note:** The application is also used as the system under test for my desktop UI automation framework.
 
+## 🎥 Demo
+
+A short demonstration of the Inventory Desktop UI Automation Framework in action. <br>
+
+<a href="https://dorusqa.github.io/assets/Inventory-Desktop-Application-Demo.mp4">
+  ▶️ Watch Demo
+</a>
+
+---
 
 ## ✨ Features
 
